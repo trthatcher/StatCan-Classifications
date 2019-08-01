@@ -1,6 +1,6 @@
-*__Acknowledgement__: The statistical classifications contained in this repository are adapted from Statistics Canada. This does not constitute an endorsement by Statistics Canada of this product.*
-
 # StatCan Statistical Classifications
+
+*__Acknowledgement__: The statistical classifications contained in this repository are adapted from Statistics Canada. This does not constitute an endorsement by Statistics Canada of this product.*
 
 This repository contains a selection of statistical classifications developed by Statistics Canada. Documentation on each of the classifications can be found on the Statistics Canada website:
 
