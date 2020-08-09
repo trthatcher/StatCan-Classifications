@@ -1,0 +1,3376 @@
+{
+  "classification": "12-608-X2018001",
+  "catalogue_number": "12-608-X",
+  "catalogue_name": {
+    "en": "Standard classification of countries and areas of interest",
+    "fr": "Classification type des pays et des zones d'intérêt"
+  },
+  "catalogue_acronym": {
+    "en": "SCCAI",
+    "fr": "CGT"
+  },
+  "issue_number": "2018001",
+  "issue_name": {
+    "en": "Standard classification of countries and areas of interest 2018",
+    "fr": "Classification type des pays et des zones d'intérêt 2018"
+  },
+  "effective_date": "2018-01-01",
+  "properties": [
+    { "property": 1,
+      "name": {
+        "en": "Num-3",
+        "fr": "Num-3"
+      },
+      "description": {
+        "en": "Three-digit numerical code defined by the United Nations",
+        "fr": "Code numérique à trois chiffres fourni par les Nations Unies"
+      }
+    },
+    { "property": 2,
+      "name": {
+        "en": "Alpha-2",
+        "fr": "Alpha-2"
+      },
+      "description": {
+        "en": "Two-character alpha code defined by the International Organization for Standardization (ISO)",
+        "fr": "Code alphabétique à deux caractères fourni par l’Organisation internationale de normalisation (ISO)"
+      }
+    },
+    { "property": 3,
+      "name": {
+        "en": "Alpha-3",
+        "fr": "Alpha-3"
+      },
+      "description": {
+        "en": "Three-character alpha code defined by the International Organization for Standardization (ISO)",
+        "fr": "Code alphabétique à trois caractères fourni par l’Organisation internationale de normalisation (ISO)"
+      }
+    }
+  ],
+  "member_set": [
+    { "member": 1,
+      "code": "1",
+      "name": {
+        "en": "Americas",
+        "fr": "Amériques"
+      }
+    },
+    { "member": 2,
+      "code": "2",
+      "name": {
+        "en": "Europe",
+        "fr": "Europe"
+      }
+    },
+    { "member": 3,
+      "code": "3",
+      "name": {
+        "en": "Africa",
+        "fr": "Afrique"
+      }
+    },
+    { "member": 4,
+      "code": "4",
+      "name": {
+        "en": "Asia",
+        "fr": "Asie"
+      }
+    },
+    { "member": 5,
+      "code": "5",
+      "name": {
+        "en": "Oceania",
+        "fr": "Océanie"
+      },
+      "remark": {
+        "en": "Oceania includes Christmas Island, Cocos (Keeling) Islands, and United States Minor Outlying Islands.",
+        "fr": "Océanie comprend Île Christmas, les îles Cocos (Keeling), et les îles mineures éloignées des États-Unis."
+      }
+    },
+    { "member": 6,
+      "code": "6",
+      "name": {
+        "en": "Antarctica and Adjacent Islands",
+        "fr": "Antarctique et îles adjacentes"
+      },
+      "remark": {
+        "en": "Antarctica and adjacent islands includes Antarctica, Bouvet Island, French Southern Territories, Heard Island and McDonald Islands.",
+        "fr": "Antarctique et îles adjacentes comprend Antarctique, Île Bouvet, Île Heard-et-Îles MacDonald, et Terres australes françaises."
+      }
+    },
+    { "member": 7,
+      "code": "11",
+      "name": {
+        "en": "North America",
+        "fr": "Amérique du Nord"
+      },
+      "remark": {
+        "en": "North America includes Canada, Greenland, Saint Pierre and Miquelon and United States.",
+        "fr": "Amérique du Nord comprend Canada, États-Unis, Groenland et Saint-Pierre-et-Miquelon."
+      }
+    },
+    { "member": 8,
+      "code": "12",
+      "name": {
+        "en": "Central America",
+        "fr": "Amérique centrale"
+      }
+    },
+    { "member": 9,
+      "code": "13",
+      "name": {
+        "en": "Caribbean and Bermuda",
+        "fr": "Antilles et Bermudes"
+      }
+    },
+    { "member": 10,
+      "code": "14",
+      "name": {
+        "en": "South America",
+        "fr": "Amérique du Sud"
+      },
+      "remark": {
+        "en": "South America includes South Georgia and the South Sandwich Islands.",
+        "fr": "Amérique du Sud comprend Géorgie du Sud et les îles Sandwich du Sud."
+      }
+    },
+    { "member": 11,
+      "code": "21",
+      "name": {
+        "en": "Western Europe",
+        "fr": "Europe de l'Ouest"
+      }
+    },
+    { "member": 12,
+      "code": "22",
+      "name": {
+        "en": "Eastern Europe",
+        "fr": "Europe de l'Est"
+      }
+    },
+    { "member": 13,
+      "code": "23",
+      "name": {
+        "en": "Northern Europe",
+        "fr": "Europe du Nord"
+      }
+    },
+    { "member": 14,
+      "code": "24",
+      "name": {
+        "en": "Southern Europe",
+        "fr": "Europe du Sud"
+      }
+    },
+    { "member": 15,
+      "code": "31",
+      "name": {
+        "en": "Western Africa",
+        "fr": "Afrique de l'Ouest"
+      }
+    },
+    { "member": 16,
+      "code": "32",
+      "name": {
+        "en": "Eastern Africa",
+        "fr": "Afrique de l'Est"
+      }
+    },
+    { "member": 17,
+      "code": "33",
+      "name": {
+        "en": "Northern Africa",
+        "fr": "Afrique du Nord"
+      }
+    },
+    { "member": 18,
+      "code": "34",
+      "name": {
+        "en": "Central Africa",
+        "fr": "Afrique centrale"
+      }
+    },
+    { "member": 19,
+      "code": "35",
+      "name": {
+        "en": "Southern Africa",
+        "fr": "Afrique du Sud"
+      }
+    },
+    { "member": 20,
+      "code": "41",
+      "name": {
+        "en": "West Central Asia and the Middle East",
+        "fr": "Asie de l'Ouest et centrale et Moyen-Orient"
+      }
+    },
+    { "member": 21,
+      "code": "42",
+      "name": {
+        "en": "Eastern Asia",
+        "fr": "Asie de l'Est"
+      }
+    },
+    { "member": 22,
+      "code": "43",
+      "name": {
+        "en": "Southeast Asia",
+        "fr": "Asie du Sud-Est"
+      }
+    },
+    { "member": 23,
+      "code": "44",
+      "name": {
+        "en": "Southern Asia",
+        "fr": "Asie du Sud"
+      },
+      "remark": {
+        "en": "Southern Asia includes British Indian Ocean Territory.",
+        "fr": "Asie du Sud comprend le Territoire britannique de l'océan Indien."
+      }
+    },
+    { "member": 24,
+      "code": "51",
+      "name": {
+        "en": "Oceania",
+        "fr": "Océanie"
+      }
+    },
+    { "member": 25,
+      "code": "61",
+      "name": {
+        "en": "Antarctica and Adjacent Islands",
+        "fr": "Antarctique et îles adjacentes"
+      }
+    },
+    { "member": 26,
+      "code": "11124",
+      "name": {
+        "en": "Canada",
+        "fr": "Canada"
+      },
+      "properties": [
+        {"property": 1, "value": "124"},
+        {"property": 2, "value": "CA"},
+        {"property": 3, "value": "CAN"}
+      ]
+    },
+    { "member": 27,
+      "code": "11304",
+      "name": {
+        "en": "Greenland",
+        "fr": "Groenland"
+      },
+      "properties": [
+        {"property": 1, "value": "304"},
+        {"property": 2, "value": "GL"},
+        {"property": 3, "value": "GRL"}
+      ]
+    },
+    { "member": 28,
+      "code": "11666",
+      "name": {
+        "en": "Saint Pierre and Miquelon",
+        "fr": "Saint-Pierre-et-Miquelon"
+      },
+      "properties": [
+        {"property": 1, "value": "666"},
+        {"property": 2, "value": "PM"},
+        {"property": 3, "value": "SPM"}
+      ]
+    },
+    { "member": 29,
+      "code": "11840",
+      "name": {
+        "en": "United States",
+        "fr": "États-Unis"
+      },
+      "remark": {
+        "en": "The official name of United States is United States of America.",
+        "fr": "Le nom officiel des États-Unis est États-Unis d'Amérique."
+      },
+      "properties": [
+        {"property": 1, "value": "840"},
+        {"property": 2, "value": "US"},
+        {"property": 3, "value": "USA"}
+      ]
+    },
+    { "member": 30,
+      "code": "12084",
+      "name": {
+        "en": "Belize",
+        "fr": "Belize"
+      },
+      "properties": [
+        {"property": 1, "value": "084"},
+        {"property": 2, "value": "BZ"},
+        {"property": 3, "value": "BLZ"}
+      ]
+    },
+    { "member": 31,
+      "code": "12188",
+      "name": {
+        "en": "Costa Rica",
+        "fr": "Costa Rica"
+      },
+      "properties": [
+        {"property": 1, "value": "188"},
+        {"property": 2, "value": "CR"},
+        {"property": 3, "value": "CRI"}
+      ]
+    },
+    { "member": 32,
+      "code": "12222",
+      "name": {
+        "en": "El Salvador",
+        "fr": "El Salvador"
+      },
+      "properties": [
+        {"property": 1, "value": "222"},
+        {"property": 2, "value": "SV"},
+        {"property": 3, "value": "SLV"}
+      ]
+    },
+    { "member": 33,
+      "code": "12320",
+      "name": {
+        "en": "Guatemala",
+        "fr": "Guatemala"
+      },
+      "properties": [
+        {"property": 1, "value": "320"},
+        {"property": 2, "value": "GT"},
+        {"property": 3, "value": "GTM"}
+      ]
+    },
+    { "member": 34,
+      "code": "12340",
+      "name": {
+        "en": "Honduras",
+        "fr": "Honduras"
+      },
+      "properties": [
+        {"property": 1, "value": "340"},
+        {"property": 2, "value": "HN"},
+        {"property": 3, "value": "HND"}
+      ]
+    },
+    { "member": 35,
+      "code": "12484",
+      "name": {
+        "en": "Mexico",
+        "fr": "Mexique"
+      },
+      "properties": [
+        {"property": 1, "value": "484"},
+        {"property": 2, "value": "MX"},
+        {"property": 3, "value": "MEX"}
+      ]
+    },
+    { "member": 36,
+      "code": "12558",
+      "name": {
+        "en": "Nicaragua",
+        "fr": "Nicaragua"
+      },
+      "properties": [
+        {"property": 1, "value": "558"},
+        {"property": 2, "value": "NI"},
+        {"property": 3, "value": "NIC"}
+      ]
+    },
+    { "member": 37,
+      "code": "12591",
+      "name": {
+        "en": "Panama",
+        "fr": "Panama"
+      },
+      "properties": [
+        {"property": 1, "value": "591"},
+        {"property": 2, "value": "PA"},
+        {"property": 3, "value": "PAN"}
+      ]
+    },
+    { "member": 38,
+      "code": "13028",
+      "name": {
+        "en": "Antigua and Barbuda",
+        "fr": "Antigua-et-Barbuda"
+      },
+      "properties": [
+        {"property": 1, "value": "028"},
+        {"property": 2, "value": "AG"},
+        {"property": 3, "value": "ATG"}
+      ]
+    },
+    { "member": 39,
+      "code": "13044",
+      "name": {
+        "en": "Bahamas",
+        "fr": "Bahamas"
+      },
+      "properties": [
+        {"property": 1, "value": "044"},
+        {"property": 2, "value": "BS"},
+        {"property": 3, "value": "BHS"}
+      ]
+    },
+    { "member": 40,
+      "code": "13052",
+      "name": {
+        "en": "Barbados",
+        "fr": "Barbade"
+      },
+      "properties": [
+        {"property": 1, "value": "052"},
+        {"property": 2, "value": "BB"},
+        {"property": 3, "value": "BRB"}
+      ]
+    },
+    { "member": 41,
+      "code": "13060",
+      "name": {
+        "en": "Bermuda",
+        "fr": "Bermudes"
+      },
+      "properties": [
+        {"property": 1, "value": "060"},
+        {"property": 2, "value": "BM"},
+        {"property": 3, "value": "BMU"}
+      ]
+    },
+    { "member": 42,
+      "code": "13092",
+      "name": {
+        "en": "Virgin Islands, British",
+        "fr": "Vierges britanniques, Îles"
+      },
+      "properties": [
+        {"property": 1, "value": "092"},
+        {"property": 2, "value": "VG"},
+        {"property": 3, "value": "VGB"}
+      ]
+    },
+    { "member": 43,
+      "code": "13136",
+      "name": {
+        "en": "Cayman Islands",
+        "fr": "Caïmans, Îles"
+      },
+      "properties": [
+        {"property": 1, "value": "136"},
+        {"property": 2, "value": "KY"},
+        {"property": 3, "value": "CYM"}
+      ]
+    },
+    { "member": 44,
+      "code": "13192",
+      "name": {
+        "en": "Cuba",
+        "fr": "Cuba"
+      },
+      "properties": [
+        {"property": 1, "value": "192"},
+        {"property": 2, "value": "CU"},
+        {"property": 3, "value": "CUB"}
+      ]
+    },
+    { "member": 45,
+      "code": "13212",
+      "name": {
+        "en": "Dominica",
+        "fr": "Dominique"
+      },
+      "properties": [
+        {"property": 1, "value": "212"},
+        {"property": 2, "value": "DM"},
+        {"property": 3, "value": "DMA"}
+      ]
+    },
+    { "member": 46,
+      "code": "13214",
+      "name": {
+        "en": "Dominican Republic",
+        "fr": "Dominicaine, République"
+      },
+      "properties": [
+        {"property": 1, "value": "214"},
+        {"property": 2, "value": "DO"},
+        {"property": 3, "value": "DOM"}
+      ]
+    },
+    { "member": 47,
+      "code": "13308",
+      "name": {
+        "en": "Grenada",
+        "fr": "Grenade"
+      },
+      "properties": [
+        {"property": 1, "value": "308"},
+        {"property": 2, "value": "GD"},
+        {"property": 3, "value": "GRD"}
+      ]
+    },
+    { "member": 48,
+      "code": "13312",
+      "name": {
+        "en": "Guadeloupe",
+        "fr": "Guadeloupe"
+      },
+      "properties": [
+        {"property": 1, "value": "312"},
+        {"property": 2, "value": "GP"},
+        {"property": 3, "value": "GLP"}
+      ]
+    },
+    { "member": 49,
+      "code": "13332",
+      "name": {
+        "en": "Haiti",
+        "fr": "Haïti"
+      },
+      "properties": [
+        {"property": 1, "value": "332"},
+        {"property": 2, "value": "HT"},
+        {"property": 3, "value": "HTI"}
+      ]
+    },
+    { "member": 50,
+      "code": "13388",
+      "name": {
+        "en": "Jamaica",
+        "fr": "Jamaïque"
+      },
+      "properties": [
+        {"property": 1, "value": "388"},
+        {"property": 2, "value": "JM"},
+        {"property": 3, "value": "JAM"}
+      ]
+    },
+    { "member": 51,
+      "code": "13474",
+      "name": {
+        "en": "Martinique",
+        "fr": "Martinique"
+      },
+      "properties": [
+        {"property": 1, "value": "474"},
+        {"property": 2, "value": "MQ"},
+        {"property": 3, "value": "MTQ"}
+      ]
+    },
+    { "member": 52,
+      "code": "13500",
+      "name": {
+        "en": "Montserrat",
+        "fr": "Montserrat"
+      },
+      "properties": [
+        {"property": 1, "value": "500"},
+        {"property": 2, "value": "MS"},
+        {"property": 3, "value": "MSR"}
+      ]
+    },
+    { "member": 53,
+      "code": "13531",
+      "name": {
+        "en": "Curaçao",
+        "fr": "Curaçao"
+      },
+      "properties": [
+        {"property": 1, "value": "531"},
+        {"property": 2, "value": "CW"},
+        {"property": 3, "value": "CUW"}
+      ]
+    },
+    { "member": 54,
+      "code": "13533",
+      "name": {
+        "en": "Aruba",
+        "fr": "Aruba"
+      },
+      "properties": [
+        {"property": 1, "value": "533"},
+        {"property": 2, "value": "AW"},
+        {"property": 3, "value": "ABW"}
+      ]
+    },
+    { "member": 55,
+      "code": "13534",
+      "name": {
+        "en": "Sint Maarten (Dutch part)",
+        "fr": "Saint-Martin (partie néerlandaise)"
+      },
+      "properties": [
+        {"property": 1, "value": "534"},
+        {"property": 2, "value": "SX"},
+        {"property": 3, "value": "SXM"}
+      ]
+    },
+    { "member": 56,
+      "code": "13535",
+      "name": {
+        "en": "Bonaire, Sint Eustatius and Saba",
+        "fr": "Bonaire, Saint-Eustache et Saba"
+      },
+      "properties": [
+        {"property": 1, "value": "535"},
+        {"property": 2, "value": "BQ"},
+        {"property": 3, "value": "BES"}
+      ]
+    },
+    { "member": 57,
+      "code": "13630",
+      "name": {
+        "en": "Puerto Rico",
+        "fr": "Porto Rico"
+      },
+      "properties": [
+        {"property": 1, "value": "630"},
+        {"property": 2, "value": "PR"},
+        {"property": 3, "value": "PRI"}
+      ]
+    },
+    { "member": 58,
+      "code": "13652",
+      "name": {
+        "en": "Saint Barthélemy",
+        "fr": "Saint-Barthélemy"
+      },
+      "properties": [
+        {"property": 1, "value": "652"},
+        {"property": 2, "value": "BL"},
+        {"property": 3, "value": "BLM"}
+      ]
+    },
+    { "member": 59,
+      "code": "13659",
+      "name": {
+        "en": "Saint Kitts and Nevis",
+        "fr": "Saint-Kitts-et-Nevis"
+      },
+      "properties": [
+        {"property": 1, "value": "659"},
+        {"property": 2, "value": "KN"},
+        {"property": 3, "value": "KNA"}
+      ]
+    },
+    { "member": 60,
+      "code": "13660",
+      "name": {
+        "en": "Anguilla",
+        "fr": "Anguilla"
+      },
+      "properties": [
+        {"property": 1, "value": "660"},
+        {"property": 2, "value": "AI"},
+        {"property": 3, "value": "AIA"}
+      ]
+    },
+    { "member": 61,
+      "code": "13662",
+      "name": {
+        "en": "Saint Lucia",
+        "fr": "Sainte-Lucie"
+      },
+      "properties": [
+        {"property": 1, "value": "662"},
+        {"property": 2, "value": "LC"},
+        {"property": 3, "value": "LCA"}
+      ]
+    },
+    { "member": 62,
+      "code": "13663",
+      "name": {
+        "en": "Saint Martin (French part)",
+        "fr": "Saint-Martin (partie française)"
+      },
+      "properties": [
+        {"property": 1, "value": "663"},
+        {"property": 2, "value": "MF"},
+        {"property": 3, "value": "MAF"}
+      ]
+    },
+    { "member": 63,
+      "code": "13670",
+      "name": {
+        "en": "Saint Vincent and the Grenadines",
+        "fr": "Saint-Vincent-et-les Grenadines"
+      },
+      "properties": [
+        {"property": 1, "value": "670"},
+        {"property": 2, "value": "VC"},
+        {"property": 3, "value": "VCT"}
+      ]
+    },
+    { "member": 64,
+      "code": "13780",
+      "name": {
+        "en": "Trinidad and Tobago",
+        "fr": "Trinité-et-Tobago"
+      },
+      "properties": [
+        {"property": 1, "value": "780"},
+        {"property": 2, "value": "TT"},
+        {"property": 3, "value": "TTO"}
+      ]
+    },
+    { "member": 65,
+      "code": "13796",
+      "name": {
+        "en": "Turks and Caicos Islands",
+        "fr": "Turks-et-Caïcos, Îles"
+      },
+      "properties": [
+        {"property": 1, "value": "796"},
+        {"property": 2, "value": "TC"},
+        {"property": 3, "value": "TCA"}
+      ]
+    },
+    { "member": 66,
+      "code": "13850",
+      "name": {
+        "en": "Virgin Islands, United States",
+        "fr": "Vierges des États-Unis, Îles"
+      },
+      "properties": [
+        {"property": 1, "value": "850"},
+        {"property": 2, "value": "VI"},
+        {"property": 3, "value": "VIR"}
+      ]
+    },
+    { "member": 67,
+      "code": "14032",
+      "name": {
+        "en": "Argentina",
+        "fr": "Argentine"
+      },
+      "properties": [
+        {"property": 1, "value": "032"},
+        {"property": 2, "value": "AR"},
+        {"property": 3, "value": "ARG"}
+      ]
+    },
+    { "member": 68,
+      "code": "14068",
+      "name": {
+        "en": "Bolivia",
+        "fr": "Bolivie"
+      },
+      "remark": {
+        "en": "The official name of Bolivia is Plurinational State of Bolivia.",
+        "fr": "Le nom officiel de Bolivie est État plurinational de Bolivie."
+      },
+      "properties": [
+        {"property": 1, "value": "068"},
+        {"property": 2, "value": "BO"},
+        {"property": 3, "value": "BOL"}
+      ]
+    },
+    { "member": 69,
+      "code": "14076",
+      "name": {
+        "en": "Brazil",
+        "fr": "Brésil"
+      },
+      "properties": [
+        {"property": 1, "value": "076"},
+        {"property": 2, "value": "BR"},
+        {"property": 3, "value": "BRA"}
+      ]
+    },
+    { "member": 70,
+      "code": "14152",
+      "name": {
+        "en": "Chile",
+        "fr": "Chili"
+      },
+      "properties": [
+        {"property": 1, "value": "152"},
+        {"property": 2, "value": "CL"},
+        {"property": 3, "value": "CHL"}
+      ]
+    },
+    { "member": 71,
+      "code": "14170",
+      "name": {
+        "en": "Colombia",
+        "fr": "Colombie"
+      },
+      "properties": [
+        {"property": 1, "value": "170"},
+        {"property": 2, "value": "CO"},
+        {"property": 3, "value": "COL"}
+      ]
+    },
+    { "member": 72,
+      "code": "14218",
+      "name": {
+        "en": "Ecuador",
+        "fr": "Équateur"
+      },
+      "properties": [
+        {"property": 1, "value": "218"},
+        {"property": 2, "value": "EC"},
+        {"property": 3, "value": "ECU"}
+      ]
+    },
+    { "member": 73,
+      "code": "14238",
+      "name": {
+        "en": "Falkland Islands (Malvinas)",
+        "fr": "Falkland, Îles (Malvinas)"
+      },
+      "properties": [
+        {"property": 1, "value": "238"},
+        {"property": 2, "value": "FK"},
+        {"property": 3, "value": "FLK"}
+      ]
+    },
+    { "member": 74,
+      "code": "14239",
+      "name": {
+        "en": "South Georgia and the South Sandwich Islands",
+        "fr": "Géorgie du Sud-et-les Îles Sandwich du Sud"
+      },
+      "properties": [
+        {"property": 1, "value": "239"},
+        {"property": 2, "value": "GS"},
+        {"property": 3, "value": "SGS"}
+      ]
+    },
+    { "member": 75,
+      "code": "14254",
+      "name": {
+        "en": "French Guiana",
+        "fr": "Guyane française"
+      },
+      "properties": [
+        {"property": 1, "value": "254"},
+        {"property": 2, "value": "GF"},
+        {"property": 3, "value": "GUF"}
+      ]
+    },
+    { "member": 76,
+      "code": "14328",
+      "name": {
+        "en": "Guyana",
+        "fr": "Guyana"
+      },
+      "properties": [
+        {"property": 1, "value": "328"},
+        {"property": 2, "value": "GY"},
+        {"property": 3, "value": "GUY"}
+      ]
+    },
+    { "member": 77,
+      "code": "14600",
+      "name": {
+        "en": "Paraguay",
+        "fr": "Paraguay"
+      },
+      "properties": [
+        {"property": 1, "value": "600"},
+        {"property": 2, "value": "PY"},
+        {"property": 3, "value": "PRY"}
+      ]
+    },
+    { "member": 78,
+      "code": "14604",
+      "name": {
+        "en": "Peru",
+        "fr": "Pérou"
+      },
+      "properties": [
+        {"property": 1, "value": "604"},
+        {"property": 2, "value": "PE"},
+        {"property": 3, "value": "PER"}
+      ]
+    },
+    { "member": 79,
+      "code": "14740",
+      "name": {
+        "en": "Suriname",
+        "fr": "Suriname"
+      },
+      "properties": [
+        {"property": 1, "value": "740"},
+        {"property": 2, "value": "SR"},
+        {"property": 3, "value": "SUR"}
+      ]
+    },
+    { "member": 80,
+      "code": "14858",
+      "name": {
+        "en": "Uruguay",
+        "fr": "Uruguay"
+      },
+      "properties": [
+        {"property": 1, "value": "858"},
+        {"property": 2, "value": "UY"},
+        {"property": 3, "value": "URY"}
+      ]
+    },
+    { "member": 81,
+      "code": "14862",
+      "name": {
+        "en": "Venezuela",
+        "fr": "Venezuela"
+      },
+      "remark": {
+        "en": "The official name of Venezuela is Bolivarian Republic of Venezuela.",
+        "fr": "Le nom officiel du Venezuela est République bolivarienne du Venezuela."
+      },
+      "properties": [
+        {"property": 1, "value": "862"},
+        {"property": 2, "value": "VE"},
+        {"property": 3, "value": "VEN"}
+      ]
+    },
+    { "member": 82,
+      "code": "21040",
+      "name": {
+        "en": "Austria",
+        "fr": "Autriche"
+      },
+      "properties": [
+        {"property": 1, "value": "040"},
+        {"property": 2, "value": "AT"},
+        {"property": 3, "value": "AUT"}
+      ]
+    },
+    { "member": 83,
+      "code": "21056",
+      "name": {
+        "en": "Belgium",
+        "fr": "Belgique"
+      },
+      "properties": [
+        {"property": 1, "value": "056"},
+        {"property": 2, "value": "BE"},
+        {"property": 3, "value": "BEL"}
+      ]
+    },
+    { "member": 84,
+      "code": "21250",
+      "name": {
+        "en": "France",
+        "fr": "France"
+      },
+      "properties": [
+        {"property": 1, "value": "250"},
+        {"property": 2, "value": "FR"},
+        {"property": 3, "value": "FRA"}
+      ]
+    },
+    { "member": 85,
+      "code": "21276",
+      "name": {
+        "en": "Germany",
+        "fr": "Allemagne"
+      },
+      "properties": [
+        {"property": 1, "value": "276"},
+        {"property": 2, "value": "DE"},
+        {"property": 3, "value": "DEU"}
+      ]
+    },
+    { "member": 86,
+      "code": "21438",
+      "name": {
+        "en": "Liechtenstein",
+        "fr": "Liechtenstein"
+      },
+      "properties": [
+        {"property": 1, "value": "438"},
+        {"property": 2, "value": "LI"},
+        {"property": 3, "value": "LIE"}
+      ]
+    },
+    { "member": 87,
+      "code": "21442",
+      "name": {
+        "en": "Luxembourg",
+        "fr": "Luxembourg"
+      },
+      "properties": [
+        {"property": 1, "value": "442"},
+        {"property": 2, "value": "LU"},
+        {"property": 3, "value": "LUX"}
+      ]
+    },
+    { "member": 88,
+      "code": "21492",
+      "name": {
+        "en": "Monaco",
+        "fr": "Monaco"
+      },
+      "properties": [
+        {"property": 1, "value": "492"},
+        {"property": 2, "value": "MC"},
+        {"property": 3, "value": "MCO"}
+      ]
+    },
+    { "member": 89,
+      "code": "21528",
+      "name": {
+        "en": "Netherlands",
+        "fr": "Pays-Bas"
+      },
+      "properties": [
+        {"property": 1, "value": "528"},
+        {"property": 2, "value": "NL"},
+        {"property": 3, "value": "NLD"}
+      ]
+    },
+    { "member": 90,
+      "code": "21756",
+      "name": {
+        "en": "Switzerland",
+        "fr": "Suisse"
+      },
+      "properties": [
+        {"property": 1, "value": "756"},
+        {"property": 2, "value": "CH"},
+        {"property": 3, "value": "CHE"}
+      ]
+    },
+    { "member": 91,
+      "code": "22100",
+      "name": {
+        "en": "Bulgaria",
+        "fr": "Bulgarie"
+      },
+      "properties": [
+        {"property": 1, "value": "100"},
+        {"property": 2, "value": "BG"},
+        {"property": 3, "value": "BGR"}
+      ]
+    },
+    { "member": 92,
+      "code": "22112",
+      "name": {
+        "en": "Belarus",
+        "fr": "Bélarus"
+      },
+      "properties": [
+        {"property": 1, "value": "112"},
+        {"property": 2, "value": "BY"},
+        {"property": 3, "value": "BLR"}
+      ]
+    },
+    { "member": 93,
+      "code": "22203",
+      "name": {
+        "en": "Czechia",
+        "fr": "Tchéquie"
+      },
+      "properties": [
+        {"property": 1, "value": "203"},
+        {"property": 2, "value": "CZ"},
+        {"property": 3, "value": "CZE"}
+      ]
+    },
+    { "member": 94,
+      "code": "22233",
+      "name": {
+        "en": "Estonia",
+        "fr": "Estonie"
+      },
+      "properties": [
+        {"property": 1, "value": "233"},
+        {"property": 2, "value": "EE"},
+        {"property": 3, "value": "EST"}
+      ]
+    },
+    { "member": 95,
+      "code": "22348",
+      "name": {
+        "en": "Hungary",
+        "fr": "Hongrie"
+      },
+      "properties": [
+        {"property": 1, "value": "348"},
+        {"property": 2, "value": "HU"},
+        {"property": 3, "value": "HUN"}
+      ]
+    },
+    { "member": 96,
+      "code": "22428",
+      "name": {
+        "en": "Latvia",
+        "fr": "Lettonie"
+      },
+      "properties": [
+        {"property": 1, "value": "428"},
+        {"property": 2, "value": "LV"},
+        {"property": 3, "value": "LVA"}
+      ]
+    },
+    { "member": 97,
+      "code": "22440",
+      "name": {
+        "en": "Lithuania",
+        "fr": "Lituanie"
+      },
+      "properties": [
+        {"property": 1, "value": "440"},
+        {"property": 2, "value": "LT"},
+        {"property": 3, "value": "LTU"}
+      ]
+    },
+    { "member": 98,
+      "code": "22498",
+      "name": {
+        "en": "Moldova",
+        "fr": "Moldova"
+      },
+      "remark": {
+        "en": "The official name of Moldova is Republic of Moldova.",
+        "fr": "Le nom officiel de Moldova est République de Moldova."
+      },
+      "properties": [
+        {"property": 1, "value": "498"},
+        {"property": 2, "value": "MD"},
+        {"property": 3, "value": "MDA"}
+      ]
+    },
+    { "member": 99,
+      "code": "22616",
+      "name": {
+        "en": "Poland",
+        "fr": "Pologne"
+      },
+      "properties": [
+        {"property": 1, "value": "616"},
+        {"property": 2, "value": "PL"},
+        {"property": 3, "value": "POL"}
+      ]
+    },
+    { "member": 100,
+      "code": "22642",
+      "name": {
+        "en": "Romania",
+        "fr": "Roumanie"
+      },
+      "properties": [
+        {"property": 1, "value": "642"},
+        {"property": 2, "value": "RO"},
+        {"property": 3, "value": "ROU"}
+      ]
+    },
+    { "member": 101,
+      "code": "22643",
+      "name": {
+        "en": "Russian Federation",
+        "fr": "Russie, Fédération de"
+      },
+      "properties": [
+        {"property": 1, "value": "643"},
+        {"property": 2, "value": "RU"},
+        {"property": 3, "value": "RUS"}
+      ]
+    },
+    { "member": 102,
+      "code": "22703",
+      "name": {
+        "en": "Slovakia",
+        "fr": "Slovaquie"
+      },
+      "properties": [
+        {"property": 1, "value": "703"},
+        {"property": 2, "value": "SK"},
+        {"property": 3, "value": "SVK"}
+      ]
+    },
+    { "member": 103,
+      "code": "22804",
+      "name": {
+        "en": "Ukraine",
+        "fr": "Ukraine"
+      },
+      "properties": [
+        {"property": 1, "value": "804"},
+        {"property": 2, "value": "UA"},
+        {"property": 3, "value": "UKR"}
+      ]
+    },
+    { "member": 104,
+      "code": "23208",
+      "name": {
+        "en": "Denmark",
+        "fr": "Danemark"
+      },
+      "properties": [
+        {"property": 1, "value": "208"},
+        {"property": 2, "value": "DK"},
+        {"property": 3, "value": "DNK"}
+      ]
+    },
+    { "member": 105,
+      "code": "23234",
+      "name": {
+        "en": "Faroe Islands",
+        "fr": "Féroé, Îles"
+      },
+      "properties": [
+        {"property": 1, "value": "234"},
+        {"property": 2, "value": "FO"},
+        {"property": 3, "value": "FRO"}
+      ]
+    },
+    { "member": 106,
+      "code": "23246",
+      "name": {
+        "en": "Finland",
+        "fr": "Finlande"
+      },
+      "properties": [
+        {"property": 1, "value": "246"},
+        {"property": 2, "value": "FI"},
+        {"property": 3, "value": "FIN"}
+      ]
+    },
+    { "member": 107,
+      "code": "23248",
+      "name": {
+        "en": "Åland Islands",
+        "fr": "Åland, Îles"
+      },
+      "properties": [
+        {"property": 1, "value": "248"},
+        {"property": 2, "value": "AX"},
+        {"property": 3, "value": "ALA"}
+      ]
+    },
+    { "member": 108,
+      "code": "23352",
+      "name": {
+        "en": "Iceland",
+        "fr": "Islande"
+      },
+      "properties": [
+        {"property": 1, "value": "352"},
+        {"property": 2, "value": "IS"},
+        {"property": 3, "value": "ISL"}
+      ]
+    },
+    { "member": 109,
+      "code": "23372",
+      "name": {
+        "en": "Ireland",
+        "fr": "Irlande"
+      },
+      "remark": {
+        "en": "Ireland is also referred to as Republic of Ireland.",
+        "fr": "Irlande est également appelée République d'Irlande."
+      },
+      "properties": [
+        {"property": 1, "value": "372"},
+        {"property": 2, "value": "IE"},
+        {"property": 3, "value": "IRL"}
+      ]
+    },
+    { "member": 110,
+      "code": "23578",
+      "name": {
+        "en": "Norway",
+        "fr": "Norvège"
+      },
+      "properties": [
+        {"property": 1, "value": "578"},
+        {"property": 2, "value": "NO"},
+        {"property": 3, "value": "NOR"}
+      ]
+    },
+    { "member": 111,
+      "code": "23680",
+      "name": {
+        "en": "Sark",
+        "fr": "Sercq"
+      },
+      "properties": [
+        {"property": 1, "value": "680"},
+        {"property": 2, "value": "XQ"},
+        {"property": 3, "value": "XSQ"}
+      ]
+    },
+    { "member": 112,
+      "code": "23744",
+      "name": {
+        "en": "Svalbard and Jan Mayen",
+        "fr": "Svalbard et l'Île Jan Mayen"
+      },
+      "properties": [
+        {"property": 1, "value": "744"},
+        {"property": 2, "value": "SJ"},
+        {"property": 3, "value": "SJM"}
+      ]
+    },
+    { "member": 113,
+      "code": "23752",
+      "name": {
+        "en": "Sweden",
+        "fr": "Suède"
+      },
+      "properties": [
+        {"property": 1, "value": "752"},
+        {"property": 2, "value": "SE"},
+        {"property": 3, "value": "SWE"}
+      ]
+    },
+    { "member": 114,
+      "code": "23826",
+      "name": {
+        "en": "United Kingdom",
+        "fr": "Royaume-Uni"
+      },
+      "remark": {
+        "en": "The official name of United Kingdom is United Kingdom of Great Britain and Northern Ireland. United Kingdom includes Scotland, Wales, England and Northern Ireland (excludes Isle of Man, the Channel Islands and British Overseas Territories).",
+        "fr": "Le nom officiel du Royaume-Uni est Royaume-Uni de Grande-Bretagne et d'Irlande du Nord. Royaume-Uni comprend l'Écosse, le pays de Galles, l'Angleterre et l'Irlande du Nord (exclut l'Île de Man, les Îles Anglo-Normandes et les territoires britanniques d'outre-mer)."
+      },
+      "properties": [
+        {"property": 1, "value": "826"},
+        {"property": 2, "value": "GB"},
+        {"property": 3, "value": "GBR"}
+      ]
+    },
+    { "member": 115,
+      "code": "23831",
+      "name": {
+        "en": "Guernsey",
+        "fr": "Guernesey"
+      },
+      "properties": [
+        {"property": 1, "value": "831"},
+        {"property": 2, "value": "GG"},
+        {"property": 3, "value": "GGY"}
+      ]
+    },
+    { "member": 116,
+      "code": "23832",
+      "name": {
+        "en": "Jersey",
+        "fr": "Jersey"
+      },
+      "properties": [
+        {"property": 1, "value": "832"},
+        {"property": 2, "value": "JE"},
+        {"property": 3, "value": "JEY"}
+      ]
+    },
+    { "member": 117,
+      "code": "23833",
+      "name": {
+        "en": "Isle of Man",
+        "fr": "Île de Man"
+      },
+      "properties": [
+        {"property": 1, "value": "833"},
+        {"property": 2, "value": "IM"},
+        {"property": 3, "value": "IMN"}
+      ]
+    },
+    { "member": 118,
+      "code": "24008",
+      "name": {
+        "en": "Albania",
+        "fr": "Albanie"
+      },
+      "properties": [
+        {"property": 1, "value": "008"},
+        {"property": 2, "value": "AL"},
+        {"property": 3, "value": "ALB"}
+      ]
+    },
+    { "member": 119,
+      "code": "24020",
+      "name": {
+        "en": "Andorra",
+        "fr": "Andorre"
+      },
+      "properties": [
+        {"property": 1, "value": "020"},
+        {"property": 2, "value": "AD"},
+        {"property": 3, "value": "AND"}
+      ]
+    },
+    { "member": 120,
+      "code": "24070",
+      "name": {
+        "en": "Bosnia and Herzegovina",
+        "fr": "Bosnie-Herzégovine"
+      },
+      "properties": [
+        {"property": 1, "value": "070"},
+        {"property": 2, "value": "BA"},
+        {"property": 3, "value": "BIH"}
+      ]
+    },
+    { "member": 121,
+      "code": "24191",
+      "name": {
+        "en": "Croatia",
+        "fr": "Croatie"
+      },
+      "properties": [
+        {"property": 1, "value": "191"},
+        {"property": 2, "value": "HR"},
+        {"property": 3, "value": "HRV"}
+      ]
+    },
+    { "member": 122,
+      "code": "24292",
+      "name": {
+        "en": "Gibraltar",
+        "fr": "Gibraltar"
+      },
+      "properties": [
+        {"property": 1, "value": "292"},
+        {"property": 2, "value": "GI"},
+        {"property": 3, "value": "GIB"}
+      ]
+    },
+    { "member": 123,
+      "code": "24300",
+      "name": {
+        "en": "Greece",
+        "fr": "Grèce"
+      },
+      "properties": [
+        {"property": 1, "value": "300"},
+        {"property": 2, "value": "GR"},
+        {"property": 3, "value": "GRC"}
+      ]
+    },
+    { "member": 124,
+      "code": "24336",
+      "name": {
+        "en": "Holy See (Vatican City State)",
+        "fr": "Saint-Siège (État de la Cité du Vatican)"
+      },
+      "properties": [
+        {"property": 1, "value": "336"},
+        {"property": 2, "value": "VA"},
+        {"property": 3, "value": "VAT"}
+      ]
+    },
+    { "member": 125,
+      "code": "24380",
+      "name": {
+        "en": "Italy",
+        "fr": "Italie"
+      },
+      "properties": [
+        {"property": 1, "value": "380"},
+        {"property": 2, "value": "IT"},
+        {"property": 3, "value": "ITA"}
+      ]
+    },
+    { "member": 126,
+      "code": "24470",
+      "name": {
+        "en": "Malta",
+        "fr": "Malte"
+      },
+      "properties": [
+        {"property": 1, "value": "470"},
+        {"property": 2, "value": "MT"},
+        {"property": 3, "value": "MLT"}
+      ]
+    },
+    { "member": 127,
+      "code": "24499",
+      "name": {
+        "en": "Montenegro",
+        "fr": "Monténégro"
+      },
+      "properties": [
+        {"property": 1, "value": "499"},
+        {"property": 2, "value": "ME"},
+        {"property": 3, "value": "MNE"}
+      ]
+    },
+    { "member": 128,
+      "code": "24620",
+      "name": {
+        "en": "Portugal",
+        "fr": "Portugal"
+      },
+      "properties": [
+        {"property": 1, "value": "620"},
+        {"property": 2, "value": "PT"},
+        {"property": 3, "value": "PRT"}
+      ]
+    },
+    { "member": 129,
+      "code": "24674",
+      "name": {
+        "en": "San Marino",
+        "fr": "Saint-Marin"
+      },
+      "properties": [
+        {"property": 1, "value": "674"},
+        {"property": 2, "value": "SM"},
+        {"property": 3, "value": "SMR"}
+      ]
+    },
+    { "member": 130,
+      "code": "24688",
+      "name": {
+        "en": "Serbia",
+        "fr": "Serbie"
+      },
+      "remark": {
+        "en": "Serbia excludes Kosovo.",
+        "fr": "Serbie exclut Kosovo."
+      },
+      "properties": [
+        {"property": 1, "value": "688"},
+        {"property": 2, "value": "RS"},
+        {"property": 3, "value": "SRB"}
+      ]
+    },
+    { "member": 131,
+      "code": "24705",
+      "name": {
+        "en": "Slovenia",
+        "fr": "Slovénie"
+      },
+      "properties": [
+        {"property": 1, "value": "705"},
+        {"property": 2, "value": "SI"},
+        {"property": 3, "value": "SVN"}
+      ]
+    },
+    { "member": 132,
+      "code": "24724",
+      "name": {
+        "en": "Spain",
+        "fr": "Espagne"
+      },
+      "properties": [
+        {"property": 1, "value": "724"},
+        {"property": 2, "value": "ES"},
+        {"property": 3, "value": "ESP"}
+      ]
+    },
+    { "member": 133,
+      "code": "24807",
+      "name": {
+        "en": "Macedonia, Republic of",
+        "fr": "Macédoine, République de"
+      },
+      "remark": {
+        "en": "Macedonia, Republic of: known as the former Yugoslav Republic of Macedonia by the United Nations and other international bodies.",
+        "fr": "République de Macédoine : connue sous le nom d'ex-République yougoslave de Macédoine à l'Organisation des Nations Unies et dans d'autres organisations internationales."
+      },
+      "properties": [
+        {"property": 1, "value": "807"},
+        {"property": 2, "value": "MK"},
+        {"property": 3, "value": "MKD"}
+      ]
+    },
+    { "member": 134,
+      "code": "24983",
+      "name": {
+        "en": "Kosovo",
+        "fr": "Kosovo"
+      },
+      "remark": {
+        "en": "The official name of Kosovo is Republic of Kosovo.",
+        "fr": "Le nom officiel du Kosovo est République du Kosovo."
+      },
+      "properties": [
+        {"property": 1, "value": "983"},
+        {"property": 2, "value": "XK"},
+        {"property": 3, "value": "XKO"}
+      ]
+    },
+    { "member": 135,
+      "code": "31132",
+      "name": {
+        "en": "Cabo Verde",
+        "fr": "Cabo Verde"
+      },
+      "properties": [
+        {"property": 1, "value": "132"},
+        {"property": 2, "value": "CV"},
+        {"property": 3, "value": "CPV"}
+      ]
+    },
+    { "member": 136,
+      "code": "31204",
+      "name": {
+        "en": "Benin",
+        "fr": "Bénin"
+      },
+      "properties": [
+        {"property": 1, "value": "204"},
+        {"property": 2, "value": "BJ"},
+        {"property": 3, "value": "BEN"}
+      ]
+    },
+    { "member": 137,
+      "code": "31270",
+      "name": {
+        "en": "Gambia",
+        "fr": "Gambie"
+      },
+      "properties": [
+        {"property": 1, "value": "270"},
+        {"property": 2, "value": "GM"},
+        {"property": 3, "value": "GMB"}
+      ]
+    },
+    { "member": 138,
+      "code": "31288",
+      "name": {
+        "en": "Ghana",
+        "fr": "Ghana"
+      },
+      "properties": [
+        {"property": 1, "value": "288"},
+        {"property": 2, "value": "GH"},
+        {"property": 3, "value": "GHA"}
+      ]
+    },
+    { "member": 139,
+      "code": "31324",
+      "name": {
+        "en": "Guinea",
+        "fr": "Guinée"
+      },
+      "properties": [
+        {"property": 1, "value": "324"},
+        {"property": 2, "value": "GN"},
+        {"property": 3, "value": "GIN"}
+      ]
+    },
+    { "member": 140,
+      "code": "31384",
+      "name": {
+        "en": "Côte d'Ivoire",
+        "fr": "Côte d'Ivoire"
+      },
+      "properties": [
+        {"property": 1, "value": "384"},
+        {"property": 2, "value": "CI"},
+        {"property": 3, "value": "CIV"}
+      ]
+    },
+    { "member": 141,
+      "code": "31430",
+      "name": {
+        "en": "Liberia",
+        "fr": "Libéria"
+      },
+      "properties": [
+        {"property": 1, "value": "430"},
+        {"property": 2, "value": "LR"},
+        {"property": 3, "value": "LBR"}
+      ]
+    },
+    { "member": 142,
+      "code": "31466",
+      "name": {
+        "en": "Mali",
+        "fr": "Mali"
+      },
+      "properties": [
+        {"property": 1, "value": "466"},
+        {"property": 2, "value": "ML"},
+        {"property": 3, "value": "MLI"}
+      ]
+    },
+    { "member": 143,
+      "code": "31478",
+      "name": {
+        "en": "Mauritania",
+        "fr": "Mauritanie"
+      },
+      "properties": [
+        {"property": 1, "value": "478"},
+        {"property": 2, "value": "MR"},
+        {"property": 3, "value": "MRT"}
+      ]
+    },
+    { "member": 144,
+      "code": "31562",
+      "name": {
+        "en": "Niger",
+        "fr": "Niger"
+      },
+      "properties": [
+        {"property": 1, "value": "562"},
+        {"property": 2, "value": "NE"},
+        {"property": 3, "value": "NER"}
+      ]
+    },
+    { "member": 145,
+      "code": "31566",
+      "name": {
+        "en": "Nigeria",
+        "fr": "Nigéria"
+      },
+      "properties": [
+        {"property": 1, "value": "566"},
+        {"property": 2, "value": "NG"},
+        {"property": 3, "value": "NGA"}
+      ]
+    },
+    { "member": 146,
+      "code": "31624",
+      "name": {
+        "en": "Guinea-Bissau",
+        "fr": "Guinée-Bissau"
+      },
+      "properties": [
+        {"property": 1, "value": "624"},
+        {"property": 2, "value": "GW"},
+        {"property": 3, "value": "GNB"}
+      ]
+    },
+    { "member": 147,
+      "code": "31654",
+      "name": {
+        "en": "Saint Helena",
+        "fr": "Sainte-Hélène"
+      },
+      "remark": {
+        "en": "The official name of Saint Helena is Saint Helena, Ascension and Tristan da Cunha.",
+        "fr": "Le nom officiel de Sainte-Hélène est Sainte-Hélène, Ascension et Tristan da Cunha."
+      },
+      "properties": [
+        {"property": 1, "value": "654"},
+        {"property": 2, "value": "SH"},
+        {"property": 3, "value": "SHN"}
+      ]
+    },
+    { "member": 148,
+      "code": "31686",
+      "name": {
+        "en": "Senegal",
+        "fr": "Sénégal"
+      },
+      "properties": [
+        {"property": 1, "value": "686"},
+        {"property": 2, "value": "SN"},
+        {"property": 3, "value": "SEN"}
+      ]
+    },
+    { "member": 149,
+      "code": "31694",
+      "name": {
+        "en": "Sierra Leone",
+        "fr": "Sierra Leone"
+      },
+      "properties": [
+        {"property": 1, "value": "694"},
+        {"property": 2, "value": "SL"},
+        {"property": 3, "value": "SLE"}
+      ]
+    },
+    { "member": 150,
+      "code": "31768",
+      "name": {
+        "en": "Togo",
+        "fr": "Togo"
+      },
+      "properties": [
+        {"property": 1, "value": "768"},
+        {"property": 2, "value": "TG"},
+        {"property": 3, "value": "TGO"}
+      ]
+    },
+    { "member": 151,
+      "code": "31854",
+      "name": {
+        "en": "Burkina Faso",
+        "fr": "Burkina Faso"
+      },
+      "properties": [
+        {"property": 1, "value": "854"},
+        {"property": 2, "value": "BF"},
+        {"property": 3, "value": "BFA"}
+      ]
+    },
+    { "member": 152,
+      "code": "32108",
+      "name": {
+        "en": "Burundi",
+        "fr": "Burundi"
+      },
+      "properties": [
+        {"property": 1, "value": "108"},
+        {"property": 2, "value": "BI"},
+        {"property": 3, "value": "BDI"}
+      ]
+    },
+    { "member": 153,
+      "code": "32174",
+      "name": {
+        "en": "Comoros",
+        "fr": "Comores"
+      },
+      "properties": [
+        {"property": 1, "value": "174"},
+        {"property": 2, "value": "KM"},
+        {"property": 3, "value": "COM"}
+      ]
+    },
+    { "member": 154,
+      "code": "32175",
+      "name": {
+        "en": "Mayotte",
+        "fr": "Mayotte"
+      },
+      "properties": [
+        {"property": 1, "value": "175"},
+        {"property": 2, "value": "YT"},
+        {"property": 3, "value": "MYT"}
+      ]
+    },
+    { "member": 155,
+      "code": "32231",
+      "name": {
+        "en": "Ethiopia",
+        "fr": "Éthiopie"
+      },
+      "properties": [
+        {"property": 1, "value": "231"},
+        {"property": 2, "value": "ET"},
+        {"property": 3, "value": "ETH"}
+      ]
+    },
+    { "member": 156,
+      "code": "32232",
+      "name": {
+        "en": "Eritrea",
+        "fr": "Érythrée"
+      },
+      "properties": [
+        {"property": 1, "value": "232"},
+        {"property": 2, "value": "ER"},
+        {"property": 3, "value": "ERI"}
+      ]
+    },
+    { "member": 157,
+      "code": "32262",
+      "name": {
+        "en": "Djibouti",
+        "fr": "Djibouti"
+      },
+      "properties": [
+        {"property": 1, "value": "262"},
+        {"property": 2, "value": "DJ"},
+        {"property": 3, "value": "DJI"}
+      ]
+    },
+    { "member": 158,
+      "code": "32404",
+      "name": {
+        "en": "Kenya",
+        "fr": "Kenya"
+      },
+      "properties": [
+        {"property": 1, "value": "404"},
+        {"property": 2, "value": "KE"},
+        {"property": 3, "value": "KEN"}
+      ]
+    },
+    { "member": 159,
+      "code": "32450",
+      "name": {
+        "en": "Madagascar",
+        "fr": "Madagascar"
+      },
+      "properties": [
+        {"property": 1, "value": "450"},
+        {"property": 2, "value": "MG"},
+        {"property": 3, "value": "MDG"}
+      ]
+    },
+    { "member": 160,
+      "code": "32454",
+      "name": {
+        "en": "Malawi",
+        "fr": "Malawi"
+      },
+      "properties": [
+        {"property": 1, "value": "454"},
+        {"property": 2, "value": "MW"},
+        {"property": 3, "value": "MWI"}
+      ]
+    },
+    { "member": 161,
+      "code": "32480",
+      "name": {
+        "en": "Mauritius",
+        "fr": "Maurice"
+      },
+      "properties": [
+        {"property": 1, "value": "480"},
+        {"property": 2, "value": "MU"},
+        {"property": 3, "value": "MUS"}
+      ]
+    },
+    { "member": 162,
+      "code": "32508",
+      "name": {
+        "en": "Mozambique",
+        "fr": "Mozambique"
+      },
+      "properties": [
+        {"property": 1, "value": "508"},
+        {"property": 2, "value": "MZ"},
+        {"property": 3, "value": "MOZ"}
+      ]
+    },
+    { "member": 163,
+      "code": "32638",
+      "name": {
+        "en": "Réunion",
+        "fr": "Réunion"
+      },
+      "properties": [
+        {"property": 1, "value": "638"},
+        {"property": 2, "value": "RE"},
+        {"property": 3, "value": "REU"}
+      ]
+    },
+    { "member": 164,
+      "code": "32646",
+      "name": {
+        "en": "Rwanda",
+        "fr": "Rwanda"
+      },
+      "properties": [
+        {"property": 1, "value": "646"},
+        {"property": 2, "value": "RW"},
+        {"property": 3, "value": "RWA"}
+      ]
+    },
+    { "member": 165,
+      "code": "32690",
+      "name": {
+        "en": "Seychelles",
+        "fr": "Seychelles"
+      },
+      "properties": [
+        {"property": 1, "value": "690"},
+        {"property": 2, "value": "SC"},
+        {"property": 3, "value": "SYC"}
+      ]
+    },
+    { "member": 166,
+      "code": "32706",
+      "name": {
+        "en": "Somalia",
+        "fr": "Somalie"
+      },
+      "properties": [
+        {"property": 1, "value": "706"},
+        {"property": 2, "value": "SO"},
+        {"property": 3, "value": "SOM"}
+      ]
+    },
+    { "member": 167,
+      "code": "32716",
+      "name": {
+        "en": "Zimbabwe",
+        "fr": "Zimbabwe"
+      },
+      "properties": [
+        {"property": 1, "value": "716"},
+        {"property": 2, "value": "ZW"},
+        {"property": 3, "value": "ZWE"}
+      ]
+    },
+    { "member": 168,
+      "code": "32728",
+      "name": {
+        "en": "South Sudan",
+        "fr": "Soudan du Sud"
+      },
+      "properties": [
+        {"property": 1, "value": "728"},
+        {"property": 2, "value": "SS"},
+        {"property": 3, "value": "SSD"}
+      ]
+    },
+    { "member": 169,
+      "code": "32800",
+      "name": {
+        "en": "Uganda",
+        "fr": "Ouganda"
+      },
+      "properties": [
+        {"property": 1, "value": "800"},
+        {"property": 2, "value": "UG"},
+        {"property": 3, "value": "UGA"}
+      ]
+    },
+    { "member": 170,
+      "code": "32834",
+      "name": {
+        "en": "Tanzania",
+        "fr": "Tanzanie"
+      },
+      "remark": {
+        "en": "The official name of Tanzania is United Republic of Tanzania.",
+        "fr": "Le nom officiel de Tanzanie est République-Unie de Tanzanie."
+      },
+      "properties": [
+        {"property": 1, "value": "834"},
+        {"property": 2, "value": "TZ"},
+        {"property": 3, "value": "TZA"}
+      ]
+    },
+    { "member": 171,
+      "code": "32894",
+      "name": {
+        "en": "Zambia",
+        "fr": "Zambie"
+      },
+      "properties": [
+        {"property": 1, "value": "894"},
+        {"property": 2, "value": "ZM"},
+        {"property": 3, "value": "ZMB"}
+      ]
+    },
+    { "member": 172,
+      "code": "33012",
+      "name": {
+        "en": "Algeria",
+        "fr": "Algérie"
+      },
+      "properties": [
+        {"property": 1, "value": "012"},
+        {"property": 2, "value": "DZ"},
+        {"property": 3, "value": "DZA"}
+      ]
+    },
+    { "member": 173,
+      "code": "33434",
+      "name": {
+        "en": "Libya",
+        "fr": "Libye"
+      },
+      "properties": [
+        {"property": 1, "value": "434"},
+        {"property": 2, "value": "LY"},
+        {"property": 3, "value": "LBY"}
+      ]
+    },
+    { "member": 174,
+      "code": "33504",
+      "name": {
+        "en": "Morocco",
+        "fr": "Maroc"
+      },
+      "properties": [
+        {"property": 1, "value": "504"},
+        {"property": 2, "value": "MA"},
+        {"property": 3, "value": "MAR"}
+      ]
+    },
+    { "member": 175,
+      "code": "33729",
+      "name": {
+        "en": "Sudan",
+        "fr": "Soudan"
+      },
+      "remark": {
+        "en": "The full name of Sudan is the Republic of the Sudan.",
+        "fr": "Le nom complet du Soudan est la République du Soudan."
+      },
+      "properties": [
+        {"property": 1, "value": "729"},
+        {"property": 2, "value": "SD"},
+        {"property": 3, "value": "SDN"}
+      ]
+    },
+    { "member": 176,
+      "code": "33732",
+      "name": {
+        "en": "Western Sahara",
+        "fr": "Sahara occidental"
+      },
+      "properties": [
+        {"property": 1, "value": "732"},
+        {"property": 2, "value": "EH"},
+        {"property": 3, "value": "ESH"}
+      ]
+    },
+    { "member": 177,
+      "code": "33788",
+      "name": {
+        "en": "Tunisia",
+        "fr": "Tunisie"
+      },
+      "properties": [
+        {"property": 1, "value": "788"},
+        {"property": 2, "value": "TN"},
+        {"property": 3, "value": "TUN"}
+      ]
+    },
+    { "member": 178,
+      "code": "33818",
+      "name": {
+        "en": "Egypt",
+        "fr": "Égypte"
+      },
+      "properties": [
+        {"property": 1, "value": "818"},
+        {"property": 2, "value": "EG"},
+        {"property": 3, "value": "EGY"}
+      ]
+    },
+    { "member": 179,
+      "code": "34024",
+      "name": {
+        "en": "Angola",
+        "fr": "Angola"
+      },
+      "properties": [
+        {"property": 1, "value": "024"},
+        {"property": 2, "value": "AO"},
+        {"property": 3, "value": "AGO"}
+      ]
+    },
+    { "member": 180,
+      "code": "34120",
+      "name": {
+        "en": "Cameroon",
+        "fr": "Cameroun"
+      },
+      "properties": [
+        {"property": 1, "value": "120"},
+        {"property": 2, "value": "CM"},
+        {"property": 3, "value": "CMR"}
+      ]
+    },
+    { "member": 181,
+      "code": "34140",
+      "name": {
+        "en": "Central African Republic",
+        "fr": "Centrafricaine, République"
+      },
+      "properties": [
+        {"property": 1, "value": "140"},
+        {"property": 2, "value": "CF"},
+        {"property": 3, "value": "CAF"}
+      ]
+    },
+    { "member": 182,
+      "code": "34148",
+      "name": {
+        "en": "Chad",
+        "fr": "Tchad"
+      },
+      "properties": [
+        {"property": 1, "value": "148"},
+        {"property": 2, "value": "TD"},
+        {"property": 3, "value": "TCD"}
+      ]
+    },
+    { "member": 183,
+      "code": "34178",
+      "name": {
+        "en": "Congo, Republic of the",
+        "fr": "Congo, République du"
+      },
+      "properties": [
+        {"property": 1, "value": "178"},
+        {"property": 2, "value": "CG"},
+        {"property": 3, "value": "COG"}
+      ]
+    },
+    { "member": 184,
+      "code": "34180",
+      "name": {
+        "en": "Congo, Democratic Republic of the",
+        "fr": "Congo, République démocratique du"
+      },
+      "properties": [
+        {"property": 1, "value": "180"},
+        {"property": 2, "value": "CD"},
+        {"property": 3, "value": "COD"}
+      ]
+    },
+    { "member": 185,
+      "code": "34226",
+      "name": {
+        "en": "Equatorial Guinea",
+        "fr": "Guinée équatoriale"
+      },
+      "properties": [
+        {"property": 1, "value": "226"},
+        {"property": 2, "value": "GQ"},
+        {"property": 3, "value": "GNQ"}
+      ]
+    },
+    { "member": 186,
+      "code": "34266",
+      "name": {
+        "en": "Gabon",
+        "fr": "Gabon"
+      },
+      "properties": [
+        {"property": 1, "value": "266"},
+        {"property": 2, "value": "GA"},
+        {"property": 3, "value": "GAB"}
+      ]
+    },
+    { "member": 187,
+      "code": "34678",
+      "name": {
+        "en": "Sao Tome and Principe",
+        "fr": "Sao Tomé-et-Principe"
+      },
+      "properties": [
+        {"property": 1, "value": "678"},
+        {"property": 2, "value": "ST"},
+        {"property": 3, "value": "STP"}
+      ]
+    },
+    { "member": 188,
+      "code": "35072",
+      "name": {
+        "en": "Botswana",
+        "fr": "Botswana"
+      },
+      "properties": [
+        {"property": 1, "value": "072"},
+        {"property": 2, "value": "BW"},
+        {"property": 3, "value": "BWA"}
+      ]
+    },
+    { "member": 189,
+      "code": "35426",
+      "name": {
+        "en": "Lesotho",
+        "fr": "Lesotho"
+      },
+      "properties": [
+        {"property": 1, "value": "426"},
+        {"property": 2, "value": "LS"},
+        {"property": 3, "value": "LSO"}
+      ]
+    },
+    { "member": 190,
+      "code": "35516",
+      "name": {
+        "en": "Namibia",
+        "fr": "Namibie"
+      },
+      "properties": [
+        {"property": 1, "value": "516"},
+        {"property": 2, "value": "NA"},
+        {"property": 3, "value": "NAM"}
+      ]
+    },
+    { "member": 191,
+      "code": "35710",
+      "name": {
+        "en": "South Africa, Republic of",
+        "fr": "Afrique du Sud, République d'"
+      },
+      "properties": [
+        {"property": 1, "value": "710"},
+        {"property": 2, "value": "ZA"},
+        {"property": 3, "value": "ZAF"}
+      ]
+    },
+    { "member": 192,
+      "code": "35748",
+      "name": {
+        "en": "Eswatini",
+        "fr": "Eswatini"
+      },
+      "properties": [
+        {"property": 1, "value": "748"},
+        {"property": 2, "value": "SZ"},
+        {"property": 3, "value": "SWZ"}
+      ]
+    },
+    { "member": 193,
+      "code": "41004",
+      "name": {
+        "en": "Afghanistan",
+        "fr": "Afghanistan"
+      },
+      "properties": [
+        {"property": 1, "value": "004"},
+        {"property": 2, "value": "AF"},
+        {"property": 3, "value": "AFG"}
+      ]
+    },
+    { "member": 194,
+      "code": "41031",
+      "name": {
+        "en": "Azerbaijan",
+        "fr": "Azerbaïdjan"
+      },
+      "properties": [
+        {"property": 1, "value": "031"},
+        {"property": 2, "value": "AZ"},
+        {"property": 3, "value": "AZE"}
+      ]
+    },
+    { "member": 195,
+      "code": "41048",
+      "name": {
+        "en": "Bahrain",
+        "fr": "Bahreïn"
+      },
+      "properties": [
+        {"property": 1, "value": "048"},
+        {"property": 2, "value": "BH"},
+        {"property": 3, "value": "BHR"}
+      ]
+    },
+    { "member": 196,
+      "code": "41051",
+      "name": {
+        "en": "Armenia",
+        "fr": "Arménie"
+      },
+      "properties": [
+        {"property": 1, "value": "051"},
+        {"property": 2, "value": "AM"},
+        {"property": 3, "value": "ARM"}
+      ]
+    },
+    { "member": 197,
+      "code": "41196",
+      "name": {
+        "en": "Cyprus",
+        "fr": "Chypre"
+      },
+      "properties": [
+        {"property": 1, "value": "196"},
+        {"property": 2, "value": "CY"},
+        {"property": 3, "value": "CYP"}
+      ]
+    },
+    { "member": 198,
+      "code": "41268",
+      "name": {
+        "en": "Georgia",
+        "fr": "Géorgie"
+      },
+      "properties": [
+        {"property": 1, "value": "268"},
+        {"property": 2, "value": "GE"},
+        {"property": 3, "value": "GEO"}
+      ]
+    },
+    { "member": 199,
+      "code": "41275",
+      "name": {
+        "en": "West Bank and Gaza Strip (Palestine)",
+        "fr": "Cisjordanie et bande de Gaza (Palestine)"
+      },
+      "remark": {
+        "en": "West Bank and Gaza Strip (Palestine): West Bank and Gaza Strip are the territories referred to in the Declaration of Principles, signed by Israel and the Palestine Liberation Organization in 1993. Palestine refers to pre-1948 British mandate Palestine.",
+        "fr": "Cisjordanie et bande de Gaza (Palestine) : Cisjordanie et bande de Gaza sont les territoires auxquels on fait allusion dans la Déclaration sur les principes, dûment signée par Israël et l'Organisation de libération de la Palestine en 1993. Palestine réfère à la Palestine d'avant 1948, sous mandat britannique."
+      },
+      "properties": [
+        {"property": 1, "value": "275"},
+        {"property": 2, "value": "PS"},
+        {"property": 3, "value": "PSE"}
+      ]
+    },
+    { "member": 200,
+      "code": "41364",
+      "name": {
+        "en": "Iran",
+        "fr": "Iran"
+      },
+      "remark": {
+        "en": "The official name of Iran is Islamic Republic of Iran.",
+        "fr": "Le nom officiel d'Iran est République islamique d'Iran."
+      },
+      "properties": [
+        {"property": 1, "value": "364"},
+        {"property": 2, "value": "IR"},
+        {"property": 3, "value": "IRN"}
+      ]
+    },
+    { "member": 201,
+      "code": "41368",
+      "name": {
+        "en": "Iraq",
+        "fr": "Iraq"
+      },
+      "properties": [
+        {"property": 1, "value": "368"},
+        {"property": 2, "value": "IQ"},
+        {"property": 3, "value": "IRQ"}
+      ]
+    },
+    { "member": 202,
+      "code": "41376",
+      "name": {
+        "en": "Israel",
+        "fr": "Israël"
+      },
+      "properties": [
+        {"property": 1, "value": "376"},
+        {"property": 2, "value": "IL"},
+        {"property": 3, "value": "ISR"}
+      ]
+    },
+    { "member": 203,
+      "code": "41398",
+      "name": {
+        "en": "Kazakhstan",
+        "fr": "Kazakhstan"
+      },
+      "properties": [
+        {"property": 1, "value": "398"},
+        {"property": 2, "value": "KZ"},
+        {"property": 3, "value": "KAZ"}
+      ]
+    },
+    { "member": 204,
+      "code": "41400",
+      "name": {
+        "en": "Jordan",
+        "fr": "Jordanie"
+      },
+      "properties": [
+        {"property": 1, "value": "400"},
+        {"property": 2, "value": "JO"},
+        {"property": 3, "value": "JOR"}
+      ]
+    },
+    { "member": 205,
+      "code": "41414",
+      "name": {
+        "en": "Kuwait",
+        "fr": "Koweït"
+      },
+      "properties": [
+        {"property": 1, "value": "414"},
+        {"property": 2, "value": "KW"},
+        {"property": 3, "value": "KWT"}
+      ]
+    },
+    { "member": 206,
+      "code": "41417",
+      "name": {
+        "en": "Kyrgyzstan",
+        "fr": "Kirghizistan"
+      },
+      "properties": [
+        {"property": 1, "value": "417"},
+        {"property": 2, "value": "KG"},
+        {"property": 3, "value": "KGZ"}
+      ]
+    },
+    { "member": 207,
+      "code": "41422",
+      "name": {
+        "en": "Lebanon",
+        "fr": "Liban"
+      },
+      "properties": [
+        {"property": 1, "value": "422"},
+        {"property": 2, "value": "LB"},
+        {"property": 3, "value": "LBN"}
+      ]
+    },
+    { "member": 208,
+      "code": "41512",
+      "name": {
+        "en": "Oman",
+        "fr": "Oman"
+      },
+      "properties": [
+        {"property": 1, "value": "512"},
+        {"property": 2, "value": "OM"},
+        {"property": 3, "value": "OMN"}
+      ]
+    },
+    { "member": 209,
+      "code": "41634",
+      "name": {
+        "en": "Qatar",
+        "fr": "Qatar"
+      },
+      "properties": [
+        {"property": 1, "value": "634"},
+        {"property": 2, "value": "QA"},
+        {"property": 3, "value": "QAT"}
+      ]
+    },
+    { "member": 210,
+      "code": "41682",
+      "name": {
+        "en": "Saudi Arabia",
+        "fr": "Arabie saoudite"
+      },
+      "properties": [
+        {"property": 1, "value": "682"},
+        {"property": 2, "value": "SA"},
+        {"property": 3, "value": "SAU"}
+      ]
+    },
+    { "member": 211,
+      "code": "41760",
+      "name": {
+        "en": "Syria",
+        "fr": "Syrie"
+      },
+      "remark": {
+        "en": "The official name of Syria is Syrian Arab Republic.",
+        "fr": "Le nom officiel de Syrie est République arabe syrienne."
+      },
+      "properties": [
+        {"property": 1, "value": "760"},
+        {"property": 2, "value": "SY"},
+        {"property": 3, "value": "SYR"}
+      ]
+    },
+    { "member": 212,
+      "code": "41762",
+      "name": {
+        "en": "Tajikistan",
+        "fr": "Tadjikistan"
+      },
+      "properties": [
+        {"property": 1, "value": "762"},
+        {"property": 2, "value": "TJ"},
+        {"property": 3, "value": "TJK"}
+      ]
+    },
+    { "member": 213,
+      "code": "41784",
+      "name": {
+        "en": "United Arab Emirates",
+        "fr": "Émirats arabes unis"
+      },
+      "properties": [
+        {"property": 1, "value": "784"},
+        {"property": 2, "value": "AE"},
+        {"property": 3, "value": "ARE"}
+      ]
+    },
+    { "member": 214,
+      "code": "41792",
+      "name": {
+        "en": "Turkey",
+        "fr": "Turquie"
+      },
+      "properties": [
+        {"property": 1, "value": "792"},
+        {"property": 2, "value": "TR"},
+        {"property": 3, "value": "TUR"}
+      ]
+    },
+    { "member": 215,
+      "code": "41795",
+      "name": {
+        "en": "Turkmenistan",
+        "fr": "Turkménistan"
+      },
+      "properties": [
+        {"property": 1, "value": "795"},
+        {"property": 2, "value": "TM"},
+        {"property": 3, "value": "TKM"}
+      ]
+    },
+    { "member": 216,
+      "code": "41860",
+      "name": {
+        "en": "Uzbekistan",
+        "fr": "Ouzbékistan"
+      },
+      "properties": [
+        {"property": 1, "value": "860"},
+        {"property": 2, "value": "UZ"},
+        {"property": 3, "value": "UZB"}
+      ]
+    },
+    { "member": 217,
+      "code": "41887",
+      "name": {
+        "en": "Yemen",
+        "fr": "Yémen"
+      },
+      "properties": [
+        {"property": 1, "value": "887"},
+        {"property": 2, "value": "YE"},
+        {"property": 3, "value": "YEM"}
+      ]
+    },
+    { "member": 218,
+      "code": "42156",
+      "name": {
+        "en": "China",
+        "fr": "Chine"
+      },
+      "remark": {
+        "en": "China excludes Hong Kong and Macao.",
+        "fr": "Chine exclut Hong Kong et Macao."
+      },
+      "properties": [
+        {"property": 1, "value": "156"},
+        {"property": 2, "value": "CN"},
+        {"property": 3, "value": "CHN"}
+      ]
+    },
+    { "member": 219,
+      "code": "42158",
+      "name": {
+        "en": "Taiwan",
+        "fr": "Taïwan"
+      },
+      "properties": [
+        {"property": 1, "value": "158"},
+        {"property": 2, "value": "TW"},
+        {"property": 3, "value": "TWN"}
+      ]
+    },
+    { "member": 220,
+      "code": "42344",
+      "name": {
+        "en": "Hong Kong",
+        "fr": "Hong Kong"
+      },
+      "remark": {
+        "en": "The full name of Hong Kong is the Hong Kong Special Administrative Region of China.",
+        "fr": "Le nom complet de Hong Kong est Hong Kong, Région administrative spéciale de Chine."
+      },
+      "properties": [
+        {"property": 1, "value": "344"},
+        {"property": 2, "value": "HK"},
+        {"property": 3, "value": "HKG"}
+      ]
+    },
+    { "member": 221,
+      "code": "42392",
+      "name": {
+        "en": "Japan",
+        "fr": "Japon"
+      },
+      "properties": [
+        {"property": 1, "value": "392"},
+        {"property": 2, "value": "JP"},
+        {"property": 3, "value": "JPN"}
+      ]
+    },
+    { "member": 222,
+      "code": "42408",
+      "name": {
+        "en": "Korea, North",
+        "fr": "Corée du Nord"
+      },
+      "remark": {
+        "en": "The official name of North Korea is Democratic People's Republic of Korea.",
+        "fr": "Le nom officiel de Corée du Nord est République populaire démocratique de Corée."
+      },
+      "properties": [
+        {"property": 1, "value": "408"},
+        {"property": 2, "value": "KP"},
+        {"property": 3, "value": "PRK"}
+      ]
+    },
+    { "member": 223,
+      "code": "42410",
+      "name": {
+        "en": "Korea, South",
+        "fr": "Corée du Sud"
+      },
+      "remark": {
+        "en": "The official name of South Korea is Republic of Korea.",
+        "fr": "Le nom officiel de Corée du Sud est République de Corée."
+      },
+      "properties": [
+        {"property": 1, "value": "410"},
+        {"property": 2, "value": "KR"},
+        {"property": 3, "value": "KOR"}
+      ]
+    },
+    { "member": 224,
+      "code": "42446",
+      "name": {
+        "en": "Macao",
+        "fr": "Macao"
+      },
+      "remark": {
+        "en": "The full name of Macao is Macao Special Administrative Region of China.",
+        "fr": "Le nom complet de Macao est Macao, Région administrative spéciale de Chine."
+      },
+      "properties": [
+        {"property": 1, "value": "446"},
+        {"property": 2, "value": "MO"},
+        {"property": 3, "value": "MAC"}
+      ]
+    },
+    { "member": 225,
+      "code": "42496",
+      "name": {
+        "en": "Mongolia",
+        "fr": "Mongolie"
+      },
+      "properties": [
+        {"property": 1, "value": "496"},
+        {"property": 2, "value": "MN"},
+        {"property": 3, "value": "MNG"}
+      ]
+    },
+    { "member": 226,
+      "code": "43096",
+      "name": {
+        "en": "Brunei Darussalam",
+        "fr": "Brunéi Darussalam"
+      },
+      "properties": [
+        {"property": 1, "value": "096"},
+        {"property": 2, "value": "BN"},
+        {"property": 3, "value": "BRN"}
+      ]
+    },
+    { "member": 227,
+      "code": "43104",
+      "name": {
+        "en": "Burma (Myanmar)",
+        "fr": "Birmanie (Myanmar)"
+      },
+      "properties": [
+        {"property": 1, "value": "104"},
+        {"property": 2, "value": "MM"},
+        {"property": 3, "value": "MMR"}
+      ]
+    },
+    { "member": 228,
+      "code": "43116",
+      "name": {
+        "en": "Cambodia",
+        "fr": "Cambodge"
+      },
+      "properties": [
+        {"property": 1, "value": "116"},
+        {"property": 2, "value": "KH"},
+        {"property": 3, "value": "KHM"}
+      ]
+    },
+    { "member": 229,
+      "code": "43360",
+      "name": {
+        "en": "Indonesia",
+        "fr": "Indonésie"
+      },
+      "properties": [
+        {"property": 1, "value": "360"},
+        {"property": 2, "value": "ID"},
+        {"property": 3, "value": "IDN"}
+      ]
+    },
+    { "member": 230,
+      "code": "43418",
+      "name": {
+        "en": "Laos",
+        "fr": "Laos"
+      },
+      "remark": {
+        "en": "The official name of Laos is Lao People's Democratic Republic.",
+        "fr": "Le nom officiel du Laos est République démocratique populaire lao."
+      },
+      "properties": [
+        {"property": 1, "value": "418"},
+        {"property": 2, "value": "LA"},
+        {"property": 3, "value": "LAO"}
+      ]
+    },
+    { "member": 231,
+      "code": "43458",
+      "name": {
+        "en": "Malaysia",
+        "fr": "Malaisie"
+      },
+      "properties": [
+        {"property": 1, "value": "458"},
+        {"property": 2, "value": "MY"},
+        {"property": 3, "value": "MYS"}
+      ]
+    },
+    { "member": 232,
+      "code": "43608",
+      "name": {
+        "en": "Philippines",
+        "fr": "Philippines"
+      },
+      "properties": [
+        {"property": 1, "value": "608"},
+        {"property": 2, "value": "PH"},
+        {"property": 3, "value": "PHL"}
+      ]
+    },
+    { "member": 233,
+      "code": "43626",
+      "name": {
+        "en": "Timor-Leste",
+        "fr": "Timor-Leste"
+      },
+      "properties": [
+        {"property": 1, "value": "626"},
+        {"property": 2, "value": "TL"},
+        {"property": 3, "value": "TLS"}
+      ]
+    },
+    { "member": 234,
+      "code": "43702",
+      "name": {
+        "en": "Singapore",
+        "fr": "Singapour"
+      },
+      "properties": [
+        {"property": 1, "value": "702"},
+        {"property": 2, "value": "SG"},
+        {"property": 3, "value": "SGP"}
+      ]
+    },
+    { "member": 235,
+      "code": "43704",
+      "name": {
+        "en": "Viet Nam",
+        "fr": "Viet Nam"
+      },
+      "properties": [
+        {"property": 1, "value": "704"},
+        {"property": 2, "value": "VN"},
+        {"property": 3, "value": "VNM"}
+      ]
+    },
+    { "member": 236,
+      "code": "43764",
+      "name": {
+        "en": "Thailand",
+        "fr": "Thaïlande"
+      },
+      "properties": [
+        {"property": 1, "value": "764"},
+        {"property": 2, "value": "TH"},
+        {"property": 3, "value": "THA"}
+      ]
+    },
+    { "member": 237,
+      "code": "44050",
+      "name": {
+        "en": "Bangladesh",
+        "fr": "Bangladesh"
+      },
+      "properties": [
+        {"property": 1, "value": "050"},
+        {"property": 2, "value": "BD"},
+        {"property": 3, "value": "BGD"}
+      ]
+    },
+    { "member": 238,
+      "code": "44064",
+      "name": {
+        "en": "Bhutan",
+        "fr": "Bhoutan"
+      },
+      "properties": [
+        {"property": 1, "value": "064"},
+        {"property": 2, "value": "BT"},
+        {"property": 3, "value": "BTN"}
+      ]
+    },
+    { "member": 239,
+      "code": "44086",
+      "name": {
+        "en": "British Indian Ocean Territory",
+        "fr": "Territoire britannique de l'océan Indien"
+      },
+      "properties": [
+        {"property": 1, "value": "086"},
+        {"property": 2, "value": "IO"},
+        {"property": 3, "value": "IOT"}
+      ]
+    },
+    { "member": 240,
+      "code": "44144",
+      "name": {
+        "en": "Sri Lanka",
+        "fr": "Sri Lanka"
+      },
+      "properties": [
+        {"property": 1, "value": "144"},
+        {"property": 2, "value": "LK"},
+        {"property": 3, "value": "LKA"}
+      ]
+    },
+    { "member": 241,
+      "code": "44356",
+      "name": {
+        "en": "India",
+        "fr": "Inde"
+      },
+      "properties": [
+        {"property": 1, "value": "356"},
+        {"property": 2, "value": "IN"},
+        {"property": 3, "value": "IND"}
+      ]
+    },
+    { "member": 242,
+      "code": "44462",
+      "name": {
+        "en": "Maldives",
+        "fr": "Maldives"
+      },
+      "properties": [
+        {"property": 1, "value": "462"},
+        {"property": 2, "value": "MV"},
+        {"property": 3, "value": "MDV"}
+      ]
+    },
+    { "member": 243,
+      "code": "44524",
+      "name": {
+        "en": "Nepal",
+        "fr": "Népal"
+      },
+      "properties": [
+        {"property": 1, "value": "524"},
+        {"property": 2, "value": "NP"},
+        {"property": 3, "value": "NPL"}
+      ]
+    },
+    { "member": 244,
+      "code": "44586",
+      "name": {
+        "en": "Pakistan",
+        "fr": "Pakistan"
+      },
+      "properties": [
+        {"property": 1, "value": "586"},
+        {"property": 2, "value": "PK"},
+        {"property": 3, "value": "PAK"}
+      ]
+    },
+    { "member": 245,
+      "code": "51016",
+      "name": {
+        "en": "American Samoa",
+        "fr": "Samoa américaines"
+      },
+      "properties": [
+        {"property": 1, "value": "016"},
+        {"property": 2, "value": "AS"},
+        {"property": 3, "value": "ASM"}
+      ]
+    },
+    { "member": 246,
+      "code": "51036",
+      "name": {
+        "en": "Australia",
+        "fr": "Australie"
+      },
+      "properties": [
+        {"property": 1, "value": "036"},
+        {"property": 2, "value": "AU"},
+        {"property": 3, "value": "AUS"}
+      ]
+    },
+    { "member": 247,
+      "code": "51090",
+      "name": {
+        "en": "Solomon Islands",
+        "fr": "Salomon, Îles"
+      },
+      "properties": [
+        {"property": 1, "value": "090"},
+        {"property": 2, "value": "SB"},
+        {"property": 3, "value": "SLB"}
+      ]
+    },
+    { "member": 248,
+      "code": "51162",
+      "name": {
+        "en": "Christmas Island",
+        "fr": "Christmas, Île"
+      },
+      "properties": [
+        {"property": 1, "value": "162"},
+        {"property": 2, "value": "CX"},
+        {"property": 3, "value": "CXR"}
+      ]
+    },
+    { "member": 249,
+      "code": "51166",
+      "name": {
+        "en": "Cocos (Keeling) Islands",
+        "fr": "Cocos (Keeling), Îles"
+      },
+      "properties": [
+        {"property": 1, "value": "166"},
+        {"property": 2, "value": "CC"},
+        {"property": 3, "value": "CCK"}
+      ]
+    },
+    { "member": 250,
+      "code": "51184",
+      "name": {
+        "en": "Cook Islands",
+        "fr": "Cook, Îles"
+      },
+      "properties": [
+        {"property": 1, "value": "184"},
+        {"property": 2, "value": "CK"},
+        {"property": 3, "value": "COK"}
+      ]
+    },
+    { "member": 251,
+      "code": "51242",
+      "name": {
+        "en": "Fiji",
+        "fr": "Fidji"
+      },
+      "properties": [
+        {"property": 1, "value": "242"},
+        {"property": 2, "value": "FJ"},
+        {"property": 3, "value": "FJI"}
+      ]
+    },
+    { "member": 252,
+      "code": "51258",
+      "name": {
+        "en": "French Polynesia",
+        "fr": "Polynésie française"
+      },
+      "properties": [
+        {"property": 1, "value": "258"},
+        {"property": 2, "value": "PF"},
+        {"property": 3, "value": "PYF"}
+      ]
+    },
+    { "member": 253,
+      "code": "51296",
+      "name": {
+        "en": "Kiribati",
+        "fr": "Kiribati"
+      },
+      "properties": [
+        {"property": 1, "value": "296"},
+        {"property": 2, "value": "KI"},
+        {"property": 3, "value": "KIR"}
+      ]
+    },
+    { "member": 254,
+      "code": "51316",
+      "name": {
+        "en": "Guam",
+        "fr": "Guam"
+      },
+      "properties": [
+        {"property": 1, "value": "316"},
+        {"property": 2, "value": "GU"},
+        {"property": 3, "value": "GUM"}
+      ]
+    },
+    { "member": 255,
+      "code": "51520",
+      "name": {
+        "en": "Nauru",
+        "fr": "Nauru"
+      },
+      "properties": [
+        {"property": 1, "value": "520"},
+        {"property": 2, "value": "NR"},
+        {"property": 3, "value": "NRU"}
+      ]
+    },
+    { "member": 256,
+      "code": "51540",
+      "name": {
+        "en": "New Caledonia",
+        "fr": "Nouvelle-Calédonie"
+      },
+      "properties": [
+        {"property": 1, "value": "540"},
+        {"property": 2, "value": "NC"},
+        {"property": 3, "value": "NCL"}
+      ]
+    },
+    { "member": 257,
+      "code": "51548",
+      "name": {
+        "en": "Vanuatu",
+        "fr": "Vanuatu"
+      },
+      "properties": [
+        {"property": 1, "value": "548"},
+        {"property": 2, "value": "VU"},
+        {"property": 3, "value": "VUT"}
+      ]
+    },
+    { "member": 258,
+      "code": "51554",
+      "name": {
+        "en": "New Zealand",
+        "fr": "Nouvelle-Zélande"
+      },
+      "properties": [
+        {"property": 1, "value": "554"},
+        {"property": 2, "value": "NZ"},
+        {"property": 3, "value": "NZL"}
+      ]
+    },
+    { "member": 259,
+      "code": "51570",
+      "name": {
+        "en": "Niue",
+        "fr": "Niue"
+      },
+      "properties": [
+        {"property": 1, "value": "570"},
+        {"property": 2, "value": "NU"},
+        {"property": 3, "value": "NIU"}
+      ]
+    },
+    { "member": 260,
+      "code": "51574",
+      "name": {
+        "en": "Norfolk Island",
+        "fr": "Norfolk, Île"
+      },
+      "properties": [
+        {"property": 1, "value": "574"},
+        {"property": 2, "value": "NF"},
+        {"property": 3, "value": "NFK"}
+      ]
+    },
+    { "member": 261,
+      "code": "51580",
+      "name": {
+        "en": "Northern Mariana Islands",
+        "fr": "Mariannes du Nord, Îles"
+      },
+      "properties": [
+        {"property": 1, "value": "580"},
+        {"property": 2, "value": "MP"},
+        {"property": 3, "value": "MNP"}
+      ]
+    },
+    { "member": 262,
+      "code": "51581",
+      "name": {
+        "en": "United States Minor Outlying Islands",
+        "fr": "Îles mineures éloignées des États-Unis"
+      },
+      "properties": [
+        {"property": 1, "value": "581"},
+        {"property": 2, "value": "UM"},
+        {"property": 3, "value": "UMI"}
+      ]
+    },
+    { "member": 263,
+      "code": "51583",
+      "name": {
+        "en": "Micronesia, Federated States of",
+        "fr": "Micronésie, États fédérés de"
+      },
+      "properties": [
+        {"property": 1, "value": "583"},
+        {"property": 2, "value": "FM"},
+        {"property": 3, "value": "FSM"}
+      ]
+    },
+    { "member": 264,
+      "code": "51584",
+      "name": {
+        "en": "Marshall Islands",
+        "fr": "Marshall, Îles"
+      },
+      "properties": [
+        {"property": 1, "value": "584"},
+        {"property": 2, "value": "MH"},
+        {"property": 3, "value": "MHL"}
+      ]
+    },
+    { "member": 265,
+      "code": "51585",
+      "name": {
+        "en": "Palau",
+        "fr": "Palaos"
+      },
+      "properties": [
+        {"property": 1, "value": "585"},
+        {"property": 2, "value": "PW"},
+        {"property": 3, "value": "PLW"}
+      ]
+    },
+    { "member": 266,
+      "code": "51598",
+      "name": {
+        "en": "Papua New Guinea",
+        "fr": "Papouasie-Nouvelle-Guinée"
+      },
+      "properties": [
+        {"property": 1, "value": "598"},
+        {"property": 2, "value": "PG"},
+        {"property": 3, "value": "PNG"}
+      ]
+    },
+    { "member": 267,
+      "code": "51612",
+      "name": {
+        "en": "Pitcairn",
+        "fr": "Pitcairn"
+      },
+      "properties": [
+        {"property": 1, "value": "612"},
+        {"property": 2, "value": "PN"},
+        {"property": 3, "value": "PCN"}
+      ]
+    },
+    { "member": 268,
+      "code": "51772",
+      "name": {
+        "en": "Tokelau",
+        "fr": "Tokélaou"
+      },
+      "properties": [
+        {"property": 1, "value": "772"},
+        {"property": 2, "value": "TK"},
+        {"property": 3, "value": "TKL"}
+      ]
+    },
+    { "member": 269,
+      "code": "51776",
+      "name": {
+        "en": "Tonga",
+        "fr": "Tonga"
+      },
+      "properties": [
+        {"property": 1, "value": "776"},
+        {"property": 2, "value": "TO"},
+        {"property": 3, "value": "TON"}
+      ]
+    },
+    { "member": 270,
+      "code": "51798",
+      "name": {
+        "en": "Tuvalu",
+        "fr": "Tuvalu"
+      },
+      "properties": [
+        {"property": 1, "value": "798"},
+        {"property": 2, "value": "TV"},
+        {"property": 3, "value": "TUV"}
+      ]
+    },
+    { "member": 271,
+      "code": "51876",
+      "name": {
+        "en": "Wallis and Futuna",
+        "fr": "Wallis-et-Futuna"
+      },
+      "properties": [
+        {"property": 1, "value": "876"},
+        {"property": 2, "value": "WF"},
+        {"property": 3, "value": "WLF"}
+      ]
+    },
+    { "member": 272,
+      "code": "51882",
+      "name": {
+        "en": "Samoa",
+        "fr": "Samoa"
+      },
+      "properties": [
+        {"property": 1, "value": "882"},
+        {"property": 2, "value": "WS"},
+        {"property": 3, "value": "WSM"}
+      ]
+    },
+    { "member": 273,
+      "code": "61010",
+      "name": {
+        "en": "Antarctica",
+        "fr": "Antarctique"
+      },
+      "properties": [
+        {"property": 1, "value": "010"},
+        {"property": 2, "value": "AQ"},
+        {"property": 3, "value": "ATA"}
+      ]
+    },
+    { "member": 274,
+      "code": "61074",
+      "name": {
+        "en": "Bouvet Island",
+        "fr": "Bouvet, Île"
+      },
+      "properties": [
+        {"property": 1, "value": "074"},
+        {"property": 2, "value": "BV"},
+        {"property": 3, "value": "BVT"}
+      ]
+    },
+    { "member": 275,
+      "code": "61260",
+      "name": {
+        "en": "French Southern Territories",
+        "fr": "Terres australes françaises"
+      },
+      "properties": [
+        {"property": 1, "value": "260"},
+        {"property": 2, "value": "TF"},
+        {"property": 3, "value": "ATF"}
+      ]
+    },
+    { "member": 276,
+      "code": "61334",
+      "name": {
+        "en": "Heard Island and McDonald Islands",
+        "fr": "Heard-et-Îles MacDonald, Île"
+      },
+      "properties": [
+        {"property": 1, "value": "334"},
+        {"property": 2, "value": "HM"},
+        {"property": 3, "value": "HMD"}
+      ]
+    }
+  ],
+  "member_vector": [26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,126,127,128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,168,169,170,171,172,173,174,175,176,177,178,179,180,181,182,183,184,185,186,187,188,189,190,191,192,193,194,195,196,197,198,199,200,201,202,203,204,205,206,207,208,209,210,211,212,213,214,215,216,217,218,219,220,221,222,223,224,225,226,227,228,229,230,231,232,233,234,235,236,237,238,239,240,241,242,243,244,245,246,247,248,249,250,251,252,253,254,255,256,257,258,259,260,261,262,263,264,265,266,267,268,269,270,271,272,273,274,275,276],
+  "variants": [
+    {
+      "variant": "CAISS-PZISS",
+      "variant_name": {
+        "en": "Countries and Areas of Interest for Social Statistics",
+        "fr": "Pays et zones d'intérêt pour les statistiques sociales"
+      },
+      "levels": [
+        { "level": 1,
+          "name": {
+            "en": "Geographical macro-regions",
+            "fr": "Régions macro-géographiques"
+          }
+        },
+        { "level": 2,
+          "name": {
+            "en": "Geographical sub-regions",
+            "fr": "Sous-régions géographiques"
+          }
+        },
+        { "level": 3,
+          "name": {
+            "en": "Countries and areas of interest",
+            "fr": "Pays et zones d'intérêt"
+          }
+        }
+      ],
+      "member_vector": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,126,127,128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,168,169,170,171,172,173,174,175,176,177,178,179,180,181,182,183,184,185,186,187,188,189,190,191,192,193,194,195,196,197,198,199,200,201,202,203,204,205,206,207,208,209,210,211,212,213,214,215,216,217,218,219,220,221,222,223,224,225,226,227,228,229,230,231,232,233,234,235,236,237,238,239,240,241,242,243,244,245,246,247,248,249,250,251,252,253,254,255,256,257,258,259,260,261,262,263,264,265,266,267,268,269,270,271,272,273,274,275,276],
+      "level_vector": [1,1,1,1,1,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3],
+      "parent_vector": [null,null,null,null,null,null,1,1,1,1,2,2,2,2,3,3,3,3,3,4,4,4,4,5,6,7,7,7,7,8,8,8,8,8,8,8,8,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,11,11,11,11,11,11,11,11,11,12,12,12,12,12,12,12,12,12,12,12,12,12,13,13,13,13,13,13,13,13,13,13,13,13,13,13,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,17,17,17,17,17,17,17,18,18,18,18,18,18,18,18,18,19,19,19,19,19,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,21,21,21,21,21,21,21,21,22,22,22,22,22,22,22,22,22,22,22,23,23,23,23,23,23,23,23,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,25,25,25,25]
+    }
+  ]
+}
